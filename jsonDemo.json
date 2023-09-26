@@ -1,0 +1,160 @@
+{
+    "data": {
+        "getStoreById": {
+            "storeId": "7364884674316784684",
+            "launchpadPathname": "/",
+            "label": "flipkart",
+            "name": "Flipkart",
+            "country": "IN",
+            "url": "https://www.flipkart.com",
+            "active": true,
+            "supported": true,
+            "hasIcon": true,
+            "supportStage": "CANT_SUPPORT",
+            "notesSupport": "can't find promo code field, but has coupon codes... mobile only codes?",
+            "notesMonetization": null,
+            "notesWorker": "{\"storeHealthRequired\":false}",
+            "created": 1404740332000,
+            "updated": 1695748573380,
+            "checked": 1456006187000,
+            "position": null,
+            "score": 4580,
+            "shoppers24h": 14216,
+            "shoppers30d": 135591,
+            "shoppersChange": 215,
+            "numSavings24h": 0,
+            "numSavings30d": 0,
+            "numSavingsChange": 0,
+            "avgSavings24h": 0,
+            "avgSavings30d": 0,
+            "avgSavingsChange": 0,
+            "metadata": "{\"pns_siteBaseURL\":\"not used\",\"pns_siteCartURL1\":\"not used\",\"pns_siteCartURL2\":\"not used\",\"pns_siteCartURL3\":\"not used\",\"pns_siteSelCartCodeSubmitType\":\"click\",\"pns_siteSelCartAddButtonType\":\"append\",\"pns_siteType\":\"refresh\",\"pns_pushCodes\":1,\"pns_priority\":3,\"pns_siteSelCartAddButton\":\"\",\"pns_cartRegex\":\"^https?\\\\:\\\\/\\\\/(?:.*\\\\.)flipkart\\\\.com\\\\/viewcart\",\"pns_confirmRegex\":\"flipkart.com/orderresponse\",\"pns_observerTarget\":\"body\",\"pns_siteSelShowHoneyGold\":\"button:contains(\\\"Login\\\"), a:contains(\\\"Login\\\")\",\"pns_siteAzId\":24716,\"pns_productPricePath\":\"//span[@class='selling-price omniture-field']\",\"pns_gDACjsonContentType\":\"\",\"pns_gDAChtmlRes\":\"\"}",
+            "partialUrls": [
+                {
+                    "domain": "flipkart.com",
+                    "partialURL": "flipkart.com"
+                }
+            ],
+            "productRegex": [
+                ".*/([a-zA-Z-0-9]+)/p/.*",
+                ".*/p/([a-zA-Z-0-9]+).*",
+                "^https?\\:\\/\\/(?:www+\\d*\\.)?flipkart\\.com\\/.*\\/p\\/(.+)"
+            ],
+            "freeShippingThreshold": null,
+            "publicCoupons": [
+                {
+                    "code": "FLYBSD",
+                    "dealId": "345520569135431381",
+                    "created": 1620317615612,
+                    "description": "10% Instant Discount With Hdfc Bank Credit Cards & Credit/debit Emi Transactions.",
+                    "expires": null,
+                    "exclusive": false,
+                    "hidden": false,
+                    "restrictions": null,
+                    "rank": 0,
+                    "applied_acc_count": 0,
+                    "applied_acc_last_ts": 0,
+                    "applied_acc_last_discount": 0,
+                    "url": "https://www.flipkart.com",
+                    "sources": [
+                        {
+                            "sourceType": "MANUAL",
+                            "updated": 1620317615709,
+                            "sourceUser": null
+                        }
+                    ],
+                    "meta": {
+                        "percentOff": null,
+                        "dollarOff": null,
+                        "dollarMinimum": null,
+                        "noMinimum": null,
+                        "freeShipping": null,
+                        "freeDelivery": null,
+                        "limitedTime": null,
+                        "firstPurchase": null,
+                        "entirePurchase": null,
+                        "anyItem": null,
+                        "sitewide": null,
+                        "freeGift": null,
+                        "bogo": null,
+                        "couponClass": "Verified coupon",
+                        "onlineOnly": null,
+                        "exclusions": null
+                    },
+                    "tags": []
+                }
+            ],
+            "providerId": "VCOMM",
+            "forceJsRedirect": false,
+            "affiliate": {
+                "extension_links": [
+                    {
+                        "val": 1,
+                        "url": "http://out.joinhoney.com/store/7364884674316784684/extension_links",
+                        "providers": [
+                            "VCOMM"
+                        ]
+                    }
+                ],
+                "hbc": [
+                    {
+                        "val": 1,
+                        "url": "http://out.joinhoney.com/store/7364884674316784684/hbc",
+                        "providers": [
+                            "VCOMM"
+                        ]
+                    }
+                ],
+                "offer_claim": [
+                    {
+                        "val": 1,
+                        "url": "http://out.joinhoney.com/store/7364884674316784684/offer_claim",
+                        "providers": [
+                            "VCOMM"
+                        ]
+                    }
+                ],
+                "website": [
+                    {
+                        "val": 1,
+                        "url": "http://out.joinhoney.com/store/7364884674316784684/website",
+                        "providers": [
+                            "VCOMM"
+                        ]
+                    }
+                ]
+            },
+            "affiliateURL": "https://tracking.vcommission.com/aff_c?offer_id=412&aff_id=49272&aff_sub=$param0&url=$turlenc",
+            "affiliateRestrictions": "",
+            "affiliateTagTypes": [
+                "OFFER_ACTIVATE",
+                "EXT_LINK",
+                "EXT_BUTTON_CLICK",
+                "WEB_LINK"
+            ],
+            "ugc_allowed": true,
+            "ugcAllowed": true,
+            "ugc": [],
+            "gold": {
+                "minPercent": 1,
+                "maxPercent": 3,
+                "started": 1695739696336,
+                "manual": false,
+                "active": true,
+                "id": "7364884674316784684",
+                "storeId": "7364884674316784684",
+                "isFlatFee": false,
+                "minFlatFee": 0,
+                "maxFlatFee": 0
+            },
+            "tipsConfig": {
+                "launchpadPathname": "/",
+                "isLaunchpadDisabled": false,
+                "isPdpDisabled": false,
+                "disabledCategories": [],
+                "autopopDisabledCategories": [],
+                "badgeCtaTextDisabledCategories": []
+            }
+        }
+    }
+}
