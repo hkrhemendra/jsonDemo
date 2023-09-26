@@ -43,7 +43,7 @@
             "freeShippingThreshold": null,
             "publicCoupons": [
                 {
-                    "code": "FLYBSD",
+                    "code": "HEMENDRA",
                     "dealId": "345520569135431381",
                     "created": 1620317615612,
                     "description": "10% Instant Discount With Hdfc Bank Credit Cards & Credit/debit Emi Transactions.",
@@ -60,6 +60,88 @@
                         {
                             "sourceType": "MANUAL",
                             "updated": 1620317615709,
+                            "sourceUser": null
+                        }
+                    ],
+                    "meta": {
+                        "percentOff": null,
+                        "dollarOff": null,
+                        "dollarMinimum": null,
+                        "noMinimum": null,
+                        "freeShipping": null,
+                        "freeDelivery": null,
+                        "limitedTime": null,
+                        "firstPurchase": null,
+                        "entirePurchase": null,
+                        "anyItem": null,
+                        "sitewide": null,
+                        "freeGift": null,
+                        "bogo": null,
+                        "couponClass": "Verified coupon",
+                        "onlineOnly": null,
+                        "exclusions": null
+                    },
+                    "tags": []
+                },
+                {
+                    "code": "LALAWAT",
+                    "dealId": "345520569135431381",
+                    "created": 1620317615613,
+                    "description": "10% Instant Discount With Hdfc Bank Credit Cards & Credit/debit Emi Transactions.",
+                    "expires": null,
+                    "exclusive": false,
+                    "hidden": false,
+                    "restrictions": null,
+                    "rank": 0,
+                    "applied_acc_count": 0,
+                    "applied_acc_last_ts": 0,
+                    "applied_acc_last_discount": 0,
+                    "url": "https://www.flipkart.com",
+                    "sources": [
+                        {
+                            "sourceType": "MANUAL",
+                            "updated": 1620317615710,
+                            "sourceUser": null
+                        }
+                    ],
+                    "meta": {
+                        "percentOff": null,
+                        "dollarOff": null,
+                        "dollarMinimum": null,
+                        "noMinimum": null,
+                        "freeShipping": null,
+                        "freeDelivery": null,
+                        "limitedTime": null,
+                        "firstPurchase": null,
+                        "entirePurchase": null,
+                        "anyItem": null,
+                        "sitewide": null,
+                        "freeGift": null,
+                        "bogo": null,
+                        "couponClass": "Verified coupon",
+                        "onlineOnly": null,
+                        "exclusions": null
+                    },
+                    "tags": []
+                },
+                {
+                    "code": "ASSIGNMENT",
+                    "dealId": "345520569135431381",
+                    "created": 1620317615615,
+                    "description": "10% Instant Discount With Hdfc Bank Credit Cards & Credit/debit Emi Transactions.",
+                    "expires": null,
+                    "exclusive": false,
+                    "hidden": false,
+                    "restrictions": null,
+                    "rank": 0,
+                    "applied_acc_count": 0,
+                    "applied_acc_last_ts": 0,
+                    "applied_acc_last_discount": 0,
+                    "url": "https://www.flipkart.com",
+                    "sources": [
+                        {
+                            "sourceType": "MANUAL",
+                            "updated": 1620317615712,
                             "sourceUser": null
                         }
                     ],
